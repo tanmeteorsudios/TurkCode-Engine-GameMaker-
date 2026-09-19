@@ -1,1 +1,2 @@
-# TurkCode-Engine-GameMaker-
+# TurkCode Engine [GameMaker]
+GameMaker da türkçe komutlar ekler
